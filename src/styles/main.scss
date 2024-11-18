@@ -1,0 +1,5 @@
+@use './config/variaveis.scss' as *;
+
+body {
+    background-color: $corPrincipal;
+};
